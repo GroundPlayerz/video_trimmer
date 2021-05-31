@@ -1,7 +1,7 @@
 import 'dart:io';
 
 import 'package:flutter/material.dart';
-import 'package:video_player/video_player.dart';
+import 'package:cached_video_player/cached_video_player.dart';
 import 'package:video_trimmer/src/thumbnail_viewer.dart';
 import 'package:video_trimmer/src/trim_editor_painter.dart';
 import 'package:video_trimmer/src/trimmer.dart';
